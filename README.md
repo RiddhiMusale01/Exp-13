@@ -93,3 +93,4 @@ O/P:
 ![image](https://github.com/user-attachments/assets/27828dea-bf97-4037-a0fc-24ef7c913e97)
 
 # Conclusion
+In the codes constructor overloading is demonstrated. The class has three constructors that initialize objects in different ways: a default constructor, a parameterized constructor with two parameters, and a parameterized constructor with one parameter. This shows how constructors can be overloaded to provide multiple ways to initialize an object's attributes. The main() function demonstrates how each constructor defines the length and breadth of a room object and calculates its area accordingly.
